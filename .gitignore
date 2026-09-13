@@ -1,0 +1,17 @@
+# Environments / secrets (never commit)
+.env
+.env.*
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Editors
+.idea/
+.vscode/
