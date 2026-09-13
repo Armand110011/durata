@@ -1,6 +1,6 @@
 # durata
 
-[![CI](https://github.com/OWNER/durata/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/durata/actions/workflows/ci.yml)
+[![CI](https://github.com/Armand110011/durata/actions/workflows/ci.yml/badge.svg)](https://github.com/Armand110011/durata/actions/workflows/ci.yml)
 [![PyPI](https://img.shields.io/pypi/v/durata.svg)](https://pypi.org/project/durata/)
 [![Python](https://img.shields.io/pypi/pyversions/durata.svg)](https://pypi.org/project/durata/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)

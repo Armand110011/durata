@@ -18,8 +18,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/OWNER/durata"
-Issues = "https://github.com/OWNER/durata/issues"
+Homepage = "https://github.com/Armand110011/durata"
+Issues = "https://github.com/Armand110011/durata/issues"
 
 [project.optional-dependencies]
 test = ["pytest>=7"]
