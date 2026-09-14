@@ -6,8 +6,7 @@ _UNITS = {
     "m": 60,
     "h": 3600,
     "d": 86400,
-    # BUG: "w" (weeks) is documented in the README but missing here,
-    # so parse("2w") raises ValueError instead of returning 1209600.
+    "w": 604800,
 }
 
 _TOKEN = re.compile(r"(\d+)([a-z])")

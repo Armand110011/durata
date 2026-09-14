@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+- Fix parsing of the documented weeks (`w`) unit.
+- Test week durations on Python 3.8 through 3.13.
+
 ## 0.3.1 - 2026-08-30
 - Ignore surrounding whitespace in `parse`.
 - Docs: document the weeks (`w`) unit.
